@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Work with us
-description: # Who is making iyf
-image: # assets/images/pic11.jpg
+# description: 
+# image: assets/images/pic11.jpg
 nav-menu: true
 ---
 
