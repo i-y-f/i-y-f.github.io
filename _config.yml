@@ -6,7 +6,7 @@ description: A responsive site template designed by HTML5 Up<br /> and released 
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: https://ifyoufeel.com # the base hostname & protocol for your site
 author:
-street_address: Based in
+street_address: We're based in sunny
 city: Los Ángeles
 state: California
 zip_code:

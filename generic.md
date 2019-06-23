@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Team
+title: People
 description: Who is behind iyf
 image: assets/images/pic11.jpg
 nav-menu: true
