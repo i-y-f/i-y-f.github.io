@@ -1,10 +1,10 @@
 # site settings
 title: ifyoufeel
-subtitle: relate to the podcasts you love
-email: youremailaddress@gmail.com
+subtitle: do more than listen
+email: info@ifyoufeel.com
 description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: / # the subpath of your site, e.g. /blog
-url: http://ifyoufeel.com# the base hostname & protocol for your site
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: https://ifyoufeel.com # the base hostname & protocol for your site
 author:
 street_address: 1234 Somewhere Road
 city: Los Ángeles
@@ -14,7 +14,7 @@ country:
 phone: (716) 555-5555
 
 # homepage tiles
-tiles-source: posts # accepts "posts" or "pages"
+tiles-source: pages # accepts "posts" or "pages"
 tiles-count: 6
 
 # social settings
@@ -26,7 +26,7 @@ googleplus_url:
 instagram_url:
 linkedin_url:
 pinterest_url:
-slack_url:
+slack_url: http://slack.com
 twitter_url:
 
 # build settings
