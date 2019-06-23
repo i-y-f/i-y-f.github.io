@@ -1,7 +1,7 @@
 ---
 layout: post
-title: People
-description: Who is behind iyf
+title: Human(s)
+description: Who is making iyf
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
