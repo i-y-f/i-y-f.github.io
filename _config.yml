@@ -1,6 +1,6 @@
 # site settings
 title: ifyoufeel
-subtitle: by HTML5 UP
+subtitle: relate to the podcasts you love
 email: youremailaddress@gmail.com
 description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
 baseurl: / # the subpath of your site, e.g. /blog
@@ -10,11 +10,11 @@ street_address: 1234 Somewhere Road
 city: Los Ángeles
 state: CA
 zip_code: 90232
-country: 
+country:
 phone: (716) 555-5555
 
 # homepage tiles
-tiles-source: pages # accepts "posts" or "pages"
+tiles-source: posts # accepts "posts" or "pages"
 tiles-count: 6
 
 # social settings
