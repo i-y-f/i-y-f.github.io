@@ -1,5 +1,5 @@
 # site settings
-title: Thirty
+title: ifyoufeel
 subtitle: by HTML5 UP
 email: youremailaddress@gmail.com
 description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
@@ -7,10 +7,10 @@ baseurl: / # the subpath of your site, e.g. /blog
 url: http://ifyoufeel.com# the base hostname & protocol for your site
 author:
 street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
+city: Los Ángeles
+state: CA
+zip_code: 90232
+country: 
 phone: (716) 555-5555
 
 # homepage tiles
@@ -21,13 +21,13 @@ tiles-count: 6
 500px_url:
 facebook_url:
 github_url:
-gitlab_url: 
-googleplus_url: 
-instagram_url: 
-linkedin_url: 
+gitlab_url:
+googleplus_url:
+instagram_url:
+linkedin_url:
 pinterest_url:
 slack_url:
-twitter_url: 
+twitter_url:
 
 # build settings
 markdown: kramdown
