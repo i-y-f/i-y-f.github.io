@@ -1,8 +1,7 @@
 ---
 layout: post
-title: Work with us
-# description: 
-# image: assets/images/pic11.jpg
+title: work
+description: 
 nav-menu: true
 ---
 
